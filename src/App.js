@@ -8,7 +8,7 @@ import Profile from './components/profile/profile-component';
 import Content from './components/main/content/content.component';
 
 import Loading from './components/loader/spinner.component';
-
+import './App.css';
 
 function App() {
   return (
